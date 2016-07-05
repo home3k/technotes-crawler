@@ -1,5 +1,5 @@
 {
-  "name": "my-headline-crawler",
+  "name": "technotes-crawler",
   "version": "1.0.0",
   "description": "ge headlines from sitse",
   "main": "index.js",

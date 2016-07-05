@@ -1,4 +1,5 @@
 export default {
+  dataPath: '/repo/home3k/notes/'
   v2ex: {
     scoreReg: /(\d{1,6})\s回复\s&nbsp;/ // For the post page
   },
